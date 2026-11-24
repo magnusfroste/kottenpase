@@ -220,8 +220,8 @@
       return {
         vb: [660, 980], liggande: false,
         fraga: { x: 24, y: 26, w: 612, h: 146 },
-        pase: { x: 40, y: 196, w: 580, h: 430 },
-        knapp: { y: 656, h: 96, w: 612, gap: 10, kolumn: true, storlek: 32 }
+        pase: { x: 40, y: 196, w: 580, h: 352 },
+        knapp: { y: 562, h: 132, w: 612, gap: 8, kolumn: true, storlek: 34 }
       };
     }
     return {
