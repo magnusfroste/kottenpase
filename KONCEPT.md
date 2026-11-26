@@ -29,7 +29,7 @@ innehållet och inte på tur; att jämföra chans när helheten är lika stor.
 **Varför iPad:** hela uppgiften ryms på en skärm utan scroll, tre tryckytor på ≥ 88 px i liggande
 och staplade helbreddskort i stående, inget som kräver att barnet håller kvar fingret.
 
-**Källor:** Skolverket, läroplanen för grundskolan (Lgr22) via skolappar.com:s syllabus-API.
+**Källor:** Skolverket, läroplanen för grundskolan (Lgr22) via skolappar.org:s syllabus-API.
 Inga andra faktapåståenden i appen – allt som sägs härleds ur påsens innehåll.
 
 ## Testplan (mätbara krav)
